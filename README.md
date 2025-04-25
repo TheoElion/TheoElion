@@ -7,6 +7,6 @@
 <br>
 <a href="https://github.com/TheoElion">
     <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=TheoElion&theme=tokyonight"/>
-   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theoElion&layout=compact&langs_count=8&card_width=225&theme=tokyonight"/>
+   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theoelion&layout=compact&langs_count=8&card_width=225&theme=tokyonight"/>
  </a>
 
